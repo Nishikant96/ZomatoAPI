@@ -1,0 +1,65 @@
+body {
+	font-family: 'Roboto Mono', monospace;
+	background: #f5f0e3;
+}
+
+
+.form {
+  position: relative;
+  height: 50px;
+  width: auto;
+  margin: 100px auto 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 25px;
+letter-spacing: 2.4px;
+word-spacing: -1.4px;
+font-weight: 400;
+font-style: italic;
+display:flex;
+flex-direction:row;
+flexbuild-style:relative;
+justify-content:center;
+}
+
+.banner{
+   background: #CE463A;
+	height: 35%;
+	width:100%;
+	margin: 0 0 0 0;
+}
+
+.card{
+	margin: 10px;
+	min-width: 120px;
+}
+
+#logo{
+position: absolute;
+margin:-19px;
+border-radius:23px;
+}
+#result{
+display:flex;
+flex-flow: wrap;
+flexbuild-style:relative;
+}
+h5{
+	word-wrap: normal;	
+}
+.btn{
+	height:45px;
+	margin-bottom:5px;
+}
+#Timer{
+display:flex;
+flex-direction:row;
+flexbuild-style:relative;
+justify-content:center;
+background: #ff6f5e;
+font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 23px;
+letter-spacing: 2px;
+word-spacing: -2.2px;
+color: #FFFFFF;
+font-weight: 700;
+}
